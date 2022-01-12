@@ -8,7 +8,7 @@ locations and the websites or apps through which their users log in to Sparkify.
 
 # Data Source:
 
-"Million Songs Dataset" reorganized by Udacity
+"Million Songs Dataset" re-organized by Udacity
 
 # Table Design
 
