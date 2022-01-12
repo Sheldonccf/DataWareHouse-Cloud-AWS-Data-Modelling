@@ -37,13 +37,8 @@ and the staging tables.
 "etl.py": implementation of etl pipelines to insert the raw data to the staging tables and 
 transfer data from staging tables to the star schema.
 
-"Infrastructure-as-codeA": using python to create an AWS Redshift cluster directly.
-
-"Infrastructure-as-codeB": using python to create an AWS Redshift cluster directly.
-
-"Infrastructure-as-codeC": using python to create an AWS Redshift cluster directly.
-
-"Infrastructure-as-codeD": using python to create an AWS Redshift cluster directly.
+"Infrastructure-as-code.ipynb" Instruction to create an AWS Redshift from python so that
+relational tables can be hosted on the cloud and data loaded onto the tables.
 
 "README.md": instructions and documentation.
 
