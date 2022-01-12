@@ -1,4 +1,4 @@
-# Sythesis
+# Synthesis
 
 The created database aims at helping a startup understand its customers' preferences. 
 The Startup could further recommend and customize personal playlists for each individual 
