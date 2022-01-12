@@ -20,8 +20,8 @@ my preliminary understanding of the samples in the staging tables.
 
 # How to Create the DataWarehouse
 
-Please follow the instructions in "Infrastructure-as-code.ipynb" to update variable values in
-"dwh.cpg" and run the cells "Infrastructure-as-code.ipynb" in sequence.
+Please follow the instructions in  "Infrastructure-as-code.ipynb" to update variable values in
+"dwh.cpg" and run the cells in "Infrastructure-as-code.ipynb" from JupyterNB in sequence.
 
 After running the last cell in "Infrastructure-as-code.ipynb", run "create_tables.py" and
 "etl.py" to build the relational tables hosted on Amazon Redshift.
