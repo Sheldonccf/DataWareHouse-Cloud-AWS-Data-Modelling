@@ -8,15 +8,15 @@ locations and the websites or apps through which their users log in to Sparkify.
 
 # Data Source:
 
-"Million Songs Dataset" re-organized by Udacity
+Kaggle's "Million Songs Dataset" re-organized by Udacity the educational institute.
 
 # Table Design
 
 The result data is organized in in the style of star schema. 
-The songplay_table is the fact table and other tables are dimension tables.
+The "songplay_table" is the fact table and other tables are dimension tables.
 The staging tables are temporary tables where source data are loaded rapidly, 
-especially in a big-data scenario. Further insertions into the star schema are based on
-my preliminary understanding of the samples in the staging tables.
+especially in a big-data scenario. Further insertions into the star schema (fact tables and dimension tables) are based on
+my preliminary understanding of the the data types and appearances of null values in the staging tables.
 
 # How to Create the DataWarehouse
 
